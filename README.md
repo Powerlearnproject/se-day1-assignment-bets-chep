@@ -1,18 +1,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18364711&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
-
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 it is a specialized branch of computer science that focuses on the systematic design, development, testing and maintenance of software applications. it entails applying engineering principles alongside programming expertise to create software systems that effectively meet user needs.
 software engineering is an integral to tecnological progress with advancements in Artificial Inteligence(AI), marchine learning ML and Virtual Reality (VR), Engineers will be in the forefront of creating innovative solutions that enhance communication, productivity, and overall user experience.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 -birth of software engineering (1968) coined during the NATO science committee sponsored conference in response to the 'software crisis' which was characterised by the complexity of software development and limitations of exisitng methodologies which led to significant monetary losses and project failures. the conference aimed to optimize software creations without compromising quality.
 -introduction of microcomputers and workstations(1970s-1980s),it marked a significant shift in computing accessibility. with introduction of microcomputers, programming became more public allowing individuals to compile and run code without relying on mainframes. this era saw an increase in software demand.
 -object-oriented programming (oop) (1980s) it introduced a new approach with 'objects' that could have specific types, different classes and independent data fields. it allowed for more modular and maintenance code
-
 List and briefly explain the phases of the Software Development Life Cycle.
 -planning and analysis-feasibility of creating the product is evaluated. it sets the foundation for what to be developed
 -define requirements-it involves converting information into a clear and actionable requirements for the development team
@@ -21,10 +17,8 @@ List and briefly explain the phases of the Software Development Life Cycle.
 -testing- this phase is for identifying bugs or issues within software before it goes live
 -deployment phase-done once the testing is complete and any necessary adjustments made. the software is deployed to a production environment where users can access it
 -maintenance and support-after deployment ongoing maintenance is required to address any issues that may arise post-launch and to implement updates or enhancement bases on user feedback or changing requirements
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall and Agile methodologies are project management methodologies that cater to different types of projects and organizational needs. waterfall methodology is a linear,sequential approach to project management whereas Agile methodology takes an iterative approach that emphasizes flexibility and customer collaboration. Waterfall methodology is best suited for projects with well-defined requirements and minimal expected changes. Agile methodology prioritize continuous feedback from customers throughtout the development process
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer- roles and responsibilities.
 a) design and architecture-overall design and architecture of software applications
@@ -41,7 +35,6 @@ a) project planning-they create detailed project plans that outline the scope, t
 b) resource management- manage allocation of resources and monitor utilization of resources and make adjustment needed
 c) communication- facilitate communication among team members, stakeholders and clients
 d) risk management- they identify potential risks and develop mitigation strategies to minimize their impact on the project.
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs) are crucial tools for software developers as they provide a comprehensive suite of features that streamline the coding process. An IDE typically includes a code editor, debugger, compiler or interpreter, and build automation tools. The integration of these components into a single application enhances productivity and efficiency
 Examples of IDEs include:
@@ -53,7 +46,6 @@ Examples of Version Control Systems include:
   - Git: The most widely used distributed version control system known for its speed and flexibility.
    - Subversion (SVN): A centralized version control system that manages files and directories over time.
   -  Mercurial: Another distributed version control system similar to Git but designed for simplicity.
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 . Rapid Technological Advancement
 The fast pace of technological change requires software engineers to continuously update their skills and knowledge. This can be overwhelming, especially for those new to the field.
@@ -94,10 +86,7 @@ The importance of these four types of testing—unit, integration, system, and a
     Interface Validation: Integration tests ensure that combined components function correctly together.
     Requirement Compliance: System tests confirm adherence to specified requirements across the entire application.
     User Validation: Acceptance tests provide assurance from end-users that their needs have been met.
-
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing and refining input text, known as prompts, to guide generative artificial intelligence (AI) models in producing desired outputs. This technique involves selecting appropriate formats, phrases, words, and symbols to effectively communicate with AI systems. The goal of prompt engineering is to enhance the quality and relevance of the responses generated by large language models (LLMs), which are capable of performing a wide range of tasks such as summarizing text, answering questions, or creating content.
 Importance of Prompt Engineering in Interacting with AI Models
